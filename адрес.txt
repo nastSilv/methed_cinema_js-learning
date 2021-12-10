@@ -1,2 +1,3 @@
  https://nastsilv.github.io/methed_cinema_js-learning/
 key api - d1f72744c91099d7cca9abb250f25638
+базовый адресс api-https://api.themoviedb.org/3/
